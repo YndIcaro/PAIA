@@ -16,39 +16,39 @@ include('nav.php')
 ?>
 <section class="cards">
         <article>
-          <img class="article-img"  src="http://placekitten.com/305/205" alt=" " />
+          <img class="article-img"  src="image1.png" alt=" " />
           <h1 class="article-title">
-            Title of article
+          <a href="publicacao1.php">Casa</a>
           </h1>
         </article>
         <article>
-          <img class="article-img" src="http://placekitten.com/320/220" alt=" " />
+          <img class="article-img" src="image2.png" alt=" " />
           <h1 class="article-title">
-            Title of article
+          <a href="publicacao2.php">Apartamento</a>
           </h1>
         </article>
         <article>
-          <img class="article-img" src="http://placekitten.com/330/240" alt=" " />
+          <img class="article-img" src="image3.png" alt=" " />
           <h1 class="article-title">
-            <a href="publicacao.php">kazinha</a>
+            <a href="publicacao3.php">Casa</a>
           </h1>
         </article>
         <article>
-          <img class="article-img" src="" alt=" " />
+          <img class="article-img" src="image4.png" alt=" " />
           <h1 class="article-title">
-            <a href="">bolsonaro</a>
+          <a href="publicacao4.php">Apartamento</a>
           </h1>
         </article>
         <article>
-          <img class="article-img" src="http://placekitten.com/310/210" alt=" " />
+          <img class="article-img" src="image5.png" alt=" " />
           <h1 class="article-title">
-            Title of article
+          <a href="publicacao5.php">Apartamento</a>
           </h1>
         </article>
         <article>
-          <img class="article-img" src="http://placekitten.com/430/240" alt=" " />
+          <img class="article-img" src="image6.png" alt=" " />
           <h1 class="article-title">
-            Title of article
+          <a href="publicacao6.php">Casa</a>
           </h1>
         </article>
       </section>
