@@ -41,7 +41,7 @@ session_start();
 			<input type="text" placeholder="Sobrenome" name="sobrenomeU"/>
 			<input type="tel" placeholder="Telefone" name="telefoneU"/>
 			<input type="email" placeholder="Email" name="emailU"/>
-			<input type="Passaword" placeholder="Senha" name="senhaU"/>
+			<input type="password" placeholder="Senha" name="senhaU"/>
 		
 			<button>Cadastrar</button>
 		</form>
@@ -66,7 +66,7 @@ session_start();
 			<div class="overlay-panel overlay-right">
 				<h1>Cadastro</h1>
 				<p>Clique aqui caso não possua conta</p>
-				<button class="ghost" id="signUp">Cadastro</button>
+				<button class="ghost" id="signUp"> <a href="telaprincipal.php">Cadastrar</a> </button>
 			</div>
 		</div>
 	</div>
